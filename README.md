@@ -1,6 +1,6 @@
 # SharpConflux
 
-SharpConflux is .NET application built to facilitate Confluence exploration. It allows Red Team operators to easily investigate Confluence instances with the goal of finding credential material and documentation relating to objectives without having to rely on SOCKS proxying.
+SharpConflux is a .NET application built to facilitate Confluence exploration. It allows Red Team operators to easily investigate Confluence instances with the goal of finding credential material and documentation relating to objectives without having to rely on SOCKS proxying.
 
 ## Features
 
